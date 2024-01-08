@@ -1,0 +1,262 @@
+.menu-bar{
+	height:6%;
+	width:100%;
+	background-color: black;
+	position: absolute;
+	left: 0%;
+	top: 0%;
+	
+}
+btn{
+	position: absolute;
+	color:#FFFF;
+	height:155%;
+	width:9%;
+	background:black #fff;
+	left: 23%;
+	top: 32%;
+}
+btn:hover{
+    background-color:blue;
+	transition-duration: 0.2s;
+}
+btn1{
+	position: absolute;
+	color:#FFFF;
+	height:155%;
+	width:9%;
+	background:black;
+	left: 39%;
+	top: 32%;
+	cursor:pointer;
+}
+btn1:hover{
+    background-color:blue;
+	transition-duration: 0.2s;
+}
+
+btn2{
+	position: absolute;
+	color:#FFFF;
+	height:155%;
+	width:5%;
+	background:black;
+	left: 32%;
+	top: 32%;
+	cursor:pointer;
+}
+btn2:hover{
+    background-color:blue;
+	transition-duration: 0.2s;
+}
+.Menu{
+	position: absolute;
+	color:black;
+	height:42%;
+	width:24%;
+	left: 0%;
+	background:gray;
+	top: 11%;
+	box-shadow:insert 0m 50m #038c8c;
+}
+.gallery {
+  position: absolute;
+  margin: 24px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+  top: 23%;
+}
+.gallery:hover {
+  border: 1px solid #777;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+    top: 23%;
+}
+
+.desc {
+  padding: 13px;
+  text-align: center;
+}
+.Rodape{
+	height:20%;
+	width:100%;
+	background-color: gray;
+	position: absolute;
+	left: 0%;
+	top: 100%;
+	
+	
+}
+.Roda{
+	height:6%;
+	width:100%;
+	background-color: black;
+	position: absolute;
+	left: 0%;
+	top: 120%;
+	color:#ffff;
+}
+.Taba{
+height:56%;
+	width:100%;
+	background-color: gray;
+	position: absolute;
+	left: 0%;
+	top: 6%;
+	background-image:url('https://car-images.bauersecure.com/wp-images/3478/093-nissan-gt-r-nismo-special-edition-rear.jpg');
+}
+.Pont{
+	position:absolute;
+	left:50%;
+	top:50%;
+}
+input[type=text]{
+  width: 180%;
+ height:26%;
+  
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+btn4{
+	
+	position: absolute;
+	color:#0000;
+	height:98%;
+	width:24%;
+	background:#ffff;
+	left: 156%;
+	top:2%;
+	cursor:pointer;
+}
+btn4:hover{
+    background-color:gray;
+	transition-duration: 0.2s;
+}
+.ty{
+height:56%;
+	width:100%;
+	background-color: gray;
+	position: absolute;
+	left: 0%;
+	top: 6%;
+	background-image:url('https://www.autoindustria.com.br/wp-content/uploads/2023/05/Scania-R450-Plus-1200x640.jpeg');
+}
+.s{
+	cursor:pointer;
+	color:#fff;
+	font-size:14pt;
+}
+.position{
+	position:absolute;
+	left:90%;
+	top:0%;
+	
+}
+    .sidenav {
+        height: 100%;
+        width: 0;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        left: 0;
+        background-color: red;
+        overflow-x: hidden;
+        transition: 0.5s;
+        padding-top: 60px;
+        text-align:center;
+      }
+      
+      .sidenav a {
+        padding: 8px 8px 8px 32px;
+        text-decoration: none;
+        font-size: 25px;
+        color: #818181;
+        display: block;
+        transition: 0.3s;
+      
+      }
+      
+      .sidenav a:hover{
+        color: #f1f1f1;
+      }
+      
+      .sidenav .closebtn {
+        position: absolute;
+        top: 0;
+        right: 25px;
+        font-size: 36px;
+        margin-left: 50px;
+      }
+      .Menu{
+		  left:40%;
+		  
+	  }
+	  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+.fg{
+	left:0%;
+}
+.f1{
+	    position: absolute;
+	top:1%;
+	left:20%;
+}
+.f2{
+	 position: absolute;
+	top:1%;
+	left:40%;
+}
+.fi{
+	position: absolute;
+	top:1%;
+	left:0%;
+	color:gray;
+}
+.f11{
+	position: absolute;
+	top:1%;
+	left:60%;
+	
+}
+.ff{
+
+	
+}
+.borda
+{
+	position:absolute;
+	background:gray;
+	height: 45%;
+	
+	top:70%;
+		width: 25%;
+	border:2px solid black;
+	
+}
